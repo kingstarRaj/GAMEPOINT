@@ -1,5 +1,4 @@
-# GAMEPOINT
-Snake Game
+# Snake Game
 This is a classic Snake game implemented in Java using the Java Swing library. The game features a simple 2D interface, in which the player controls a snake that moves around a grid, eating food and growing longer with each bite. The player must avoid colliding with the walls or their own tail, which grows longer as the game progresses.
 
 # Installation
